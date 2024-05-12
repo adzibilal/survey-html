@@ -319,3 +319,16 @@ body {
     gap: 25px;
     min-height: 70vh;
 }
+
+.reason {
+    width: calc(100% - 51px);
+    max-width: calc(100% - 51px);
+    height: 100px;
+    margin-top: 20px;
+    border: 1px solid #dddddd;
+    border-radius: 25px;
+    outline: none;
+    padding: 20px 25px;
+    font-family: 'Inter', sans-serif;
+    display: none;
+}
